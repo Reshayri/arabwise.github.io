@@ -1,0 +1,47 @@
+ 
+    body{
+	background-color: #006006;
+	font: 14px 'Verdana';
+    margin: 10;
+    padding: 5;
+		
+}
+
+
+h4 {
+	font-size:16px	
+}
+#container{
+	width: 900px;
+	height: auto;
+	
+	margin: 10px auto;
+	padding: 10px auto;
+	border-left: 4px solid #999; /* Блогодаря этим 4 строкам получаем 3D эффект */
+	border-top: 4px solid #999; 
+    border-right: 4px solid #333; 
+    border-bottom: 4px solid #333;
+	
+}
+#content{
+	font-size:16px;
+	padding-top:5px;
+	background-color: #fea;
+	border: solid 1px green;
+	border-radius:2px;
+	margin: 5px auto; 
+	
+	
+	
+}
+#footer{
+	background-color: #999009;
+	text-align: center;
+	font-size:18px; 
+    padding:10px;
+	border-left: 2px solid #999; /* Блогодаря этим 4 строкам получаем 3D эффект */
+	border-top: 2px solid #999; 
+    border-right: 2px solid #333; 
+    border-bottom: 2px solid #333; 
+}
+
